@@ -33,7 +33,7 @@ const albums = [
 		emblem: "Life is better with music",
 		"bg-color": ["#727272", "#0D1827"],
 		"accent-color": "#727272",
-		url: "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkyMzQwODE0NDMxNTI4MTc4/justin-bieber-gettyimages-1202421980.jpg",
+		url: "https://media1.popsugar-assets.com/files/thumbor/m5hWnoLb2swg0qdQ9HwqhNmDR4s/616x88:2931x2403/fit-in/500x500/filters:format_auto-!!-:strip_icc-!!-/2020/02/24/871/n/1922398/a66872b45e542a05d1cd50.97536705_/i/Justin-Bieber.jpg",
 		spotify:
 			"https://open.spotify.com/embed/track/1f8zcJPvJKvxAOjEqM0pyc?utm_source=generator"
 	},
